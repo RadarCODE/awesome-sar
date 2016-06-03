@@ -52,6 +52,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     * [SSARA](https://github.com/bakerunavco/SSARA) - Seamless SAR Archive project repository
     * [ArchiveTools](https://github.com/bakerunavco/Archive-Tools) - Scripts for downloading and searching data
 
+* Software and Utilities
+    * [adore-doris](https://github.com/bosmanoglu/adore-doris)
+    * [RITSAR](https://github.com/dm6718/RITSAR)
+    * [ISCE_utils](https://github.com/EJFielding/ISCE_utils)
+    * [s1tbx](https://github.com/senbox-org/s1tbx)
+    * [PySAR](https://github.com/bminchew/PySAR)
+
 * System configuration and installation
     * [isce_notes](https://github.com/scottyhq/isce_notes) - Installation notes of ISCE software
     * [oldLinuxSetup](https://github.com/piyushrpt/oldLinuxSetup) - setup python environment using anaconda on old linux machines
