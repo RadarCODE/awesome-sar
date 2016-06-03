@@ -58,6 +58,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     * [ISCE_utils](https://github.com/EJFielding/ISCE_utils)
     * [s1tbx](https://github.com/senbox-org/s1tbx)
     * [PySAR](https://github.com/bminchew/PySAR)
+    * [ROI_PAC-Sentinel1](https://github.com/RaphaelGrandin/ROI_PAC-Sentinel1)
+    * [insar_scripts](https://github.com/scottyhq/insar_scripts)
+    * [RapidSAR](https://github.com/KarstenSpaans/RapidSAR)
 
 * System configuration and installation
     * [isce_notes](https://github.com/scottyhq/isce_notes) - Installation notes of ISCE software
