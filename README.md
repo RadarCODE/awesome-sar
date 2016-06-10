@@ -7,6 +7,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Awesome SAR](#awesome-sar)
     - [InSAR Processing Software](#insar-processing-software)
     - [Time Series Analysis Software](#time-series-analysis-software)
+    - [Tropospheric Noise Correction Software](#tropospheric-noise-correction-software)
     - [Geospatial Tools](#geospatial-tools)
     - [GitHub Repos](#radar-related-github-repos)
 - [Resources](#resources)
@@ -35,6 +36,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [PySAR](https://github.com/hfattahi/PySAR) - InSAR time-series analysis in python.
 * [SARPROZ](http://www.sarproz.com/) - The SAR PROcessing tool by periZ 
 * [StaMPS/MTI](http://homepages.see.leeds.ac.uk/~earahoo/stamps/) - Stanford Method for Persistent Scatterers
+
+## Tropospheric Noise Correction Software
+
+*Software and libraries for performing tropospheric noise corrections*
+
+* [PyAPS](http://earthdef.caltech.edu/projects/pyaps/wiki) - Python based Atmospheric Phase Screen Estimation.
+* [TRAIN](http://www.davidbekaert.com/#links) - Toolbox for Reducing Atmospheric InSAR Noise.
 
 ## Geospatial Tools
 
@@ -84,6 +92,7 @@ Where to discover new SAR libraries and resources.
 * Forums 
     * [ISCE Forum](http://earthdef.caltech.edu/projects/isce_forum/boards)
     * [StaMPS/MAINSAR Forum](https://groups.google.com/forum/#!forum/mainsar)
+    * [TRAIN Forum](https://groups.google.com/forum/#!forum/TRAIN_support)
 
 * Training and Tutorials
     * [SAREDU](https://saredu.dlr.de/)
