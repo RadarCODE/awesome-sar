@@ -98,6 +98,9 @@ Where to discover new SAR libraries and resources.
     * [SAREDU](https://saredu.dlr.de/)
     * [UNAVCO Short Courses](http://www.unavco.org/education/advancing-geodetic-skills/short-courses/2016/2016.html)
 
+* Processing Recipes for Automatic Product Generation 
+    * [ASF Data Recipes](https://www.asf.alaska.edu/data-tools/data-recipes/)
+
 * Other 
     * [CEOS Database](http://database.eohandbook.com/)
     * [WInSAR](http://winsar.unavco.org)
