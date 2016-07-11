@@ -42,7 +42,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Software and libraries for performing tropospheric noise corrections*
 
 * [PyAPS](http://earthdef.caltech.edu/projects/pyaps/wiki) - Python based Atmospheric Phase Screen Estimation.
-* [TRAIN](http://www.davidbekaert.com/#links) - Toolbox for Reducing Atmospheric InSAR Noise.
+* [TRAIN](http://www.davidbekaert.com/#links) - Toolbox for Reducing Atmospheric InSAR Noise - [git-version](https://github.com/dbekaert/TRAIN).
+
 
 ## Geospatial Tools
 
