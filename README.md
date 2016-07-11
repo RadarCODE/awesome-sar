@@ -93,6 +93,7 @@ Where to discover new SAR libraries and resources.
 
 * Forums 
     * [ISCE Forum](http://earthdef.caltech.edu/projects/isce_forum/boards)
+    * [SNAP Forum](http://forum.step.esa.int)
     * [StaMPS/MAINSAR Forum](https://groups.google.com/forum/#!forum/mainsar)
     * [TRAIN Forum](https://groups.google.com/forum/#!forum/TRAIN_support)
 
