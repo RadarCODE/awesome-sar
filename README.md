@@ -60,6 +60,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * Data discovery and download
     * [SSARA](https://github.com/bakerunavco/SSARA) - Seamless SAR Archive project repository
     * [ArchiveTools](https://github.com/bakerunavco/Archive-Tools) - Scripts for downloading and searching data
+    * [SentinelSat](https://github.com/ibamacsr/sentinelsat) - Search and download Sentinel images from the command line or with the Python API.
 
 * Software and Utilities
     * [adore-doris](https://github.com/bosmanoglu/adore-doris)
