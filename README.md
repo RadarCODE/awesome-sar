@@ -110,6 +110,7 @@ Where to discover new SAR libraries and resources.
     * [CEOS Database](http://database.eohandbook.com/)
     * [WInSAR](http://winsar.unavco.org)
     * [Supersites](http://supersites.earthobservations.org/)
+    * [Summary of Available SAR Calibration Targets](http://sarcv.ceos.org/targets/)
     
 ## Twitter
 
