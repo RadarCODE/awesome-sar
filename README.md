@@ -74,6 +74,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     * [gmtsar2stamps](https://github.com/xitong123/gmtsar2stamps)
     * [pygmtsar](https://github.com/bakerunavco/pygmtsar) - Python scripts for GMTSAR processing
     * [GIPhT](https://github.com/feigl/gipht) - General Inversion of Phase Technique
+    * [RaySAR](https://github.com/StefanJAuer/RaySAR) - 3D Synthetic Aperture Radar (SAR) Simulator
 
 * System configuration and installation
     * [isce_notes](https://github.com/scottyhq/isce_notes) - Installation notes of ISCE software
