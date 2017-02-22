@@ -63,6 +63,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     * [SentinelSat](https://github.com/ibamacsr/sentinelsat) - Search and download Sentinel images from the command line or with the Python API.
 
 * Software and Utilities
+    * [PyRAT](https://github.com/birgander2/PyRAT) - General purpose SAR postprocessing framework
     * [adore-doris](https://github.com/bosmanoglu/adore-doris)
     * [RITSAR](https://github.com/dm6718/RITSAR)
     * [ISCE_utils](https://github.com/EJFielding/ISCE_utils)
