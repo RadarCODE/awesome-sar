@@ -6,6 +6,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Awesome SAR](#awesome-sar)
     - [InSAR Processing Software](#insar-processing-software)
+    - [PolSAR Processing Software](#polsar-processing-software)
     - [Time Series Analysis Software](#time-series-analysis-software)
     - [Tropospheric Noise Correction Software](#tropospheric-noise-correction-software)
     - [Geospatial Tools](#geospatial-tools)
@@ -27,6 +28,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [SNAP](http://step.esa.int/main/toolboxes/snap/) - Sentinel Application Platform.
 * [Doris](http://doris.tudelft.nl/) - Delft object-oriented radar interferomtric software.
 * [Gamma](http://www.gamma-rs.ch/no_cache/software.html) - Gamma Remote Sensing SAR and Interferometry Software.
+
+## PolSAR Processing Software
+
+*Software and libraries for polarimetric and polarimetric interferometric SAR (PolSAR / PolInSAR)*
+
+* [PolSARPro](https://earth.esa.int/web/polsarpro) - The ESA Polarimetric SAR Data Processing and Educational Tool
+* [RAT](https://rat.radartools.org) - RAT Radar Tools (discontinued)
 
 ## Time Series Analysis Software
 
@@ -63,6 +71,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     * [SentinelSat](https://github.com/ibamacsr/sentinelsat) - Search and download Sentinel images from the command line or with the Python API.
 
 * Software and Utilities
+    * [PyRAT](https://github.com/birgander2/PyRAT) - General purpose SAR postprocessing framework
     * [adore-doris](https://github.com/bosmanoglu/adore-doris)
     * [RITSAR](https://github.com/dm6718/RITSAR)
     * [ISCE_utils](https://github.com/EJFielding/ISCE_utils)
