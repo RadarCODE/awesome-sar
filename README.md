@@ -84,11 +84,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     * [pygmtsar](https://github.com/bakerunavco/pygmtsar) - Python scripts for GMTSAR processing
     * [GIPhT](https://github.com/feigl/gipht) - General Inversion of Phase Technique
     * [RaySAR](https://github.com/StefanJAuer/RaySAR) - 3D Synthetic Aperture Radar (SAR) Simulator
+    * [kite](https://github.com/pyrocko/kite) - Tectonic displacement modelling, quadtree subsampling and covariance analysis
 
 * System configuration and installation
     * [insar_instal](https://github.com/mgovorcin/insar_inst) - Set of scripts that automatically install InSAR softwares
     * [isce_notes](https://github.com/scottyhq/isce_notes) - Installation notes of ISCE software
-    * [oldLinuxSetup](https://github.com/piyushrpt/oldLinuxSetup) - setup python environment using anaconda on old linux machines
+    * [oldLinuxSetup](https://github.com/piyushrpt/oldLinuxSetup) - Setup python environment using anaconda on old linux machines
     * [ElCaptanSetup](https://github.com/piyushrpt/ElCapitanSetup) - Instructions for setting up an OS X El Capitan machine from scratch
 
 # Resources
