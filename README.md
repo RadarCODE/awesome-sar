@@ -40,7 +40,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Software and libraries for multitemporal/time series InSAR analysis*
 
-* [GIAnT](http://earthdef.caltech.edu/projects/giant/wiki) - Generic InSAR Analysis Toolbox. 
+* [GIAnT](http://earthdef.caltech.edu/projects/giant/wiki) - Generic InSAR Analysis Toolbox.
+* [PyRate](https://github.com/GeoscienceAustralia/PyRate) - A Python tool for Rate and Time-series Estimation
 * [PySAR](https://github.com/hfattahi/PySAR) - InSAR time-series analysis in python.
 * [SARPROZ](http://www.sarproz.com/) - The SAR PROcessing tool by periZ 
 * [StaMPS/MTI](http://homepages.see.leeds.ac.uk/~earahoo/stamps/) - Stanford Method for Persistent Scatterers
