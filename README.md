@@ -112,9 +112,11 @@ Where to discover new SAR libraries and resources.
     * [StaMPS/MAINSAR Forum](https://groups.google.com/forum/#!forum/mainsar)
     * [TRAIN Forum](https://groups.google.com/forum/#!forum/TRAIN_support)
 
-* Training and Tutorials
+* Training, Tutorials, Classes & Other Online Educational Material
     * [SAREDU](https://saredu.dlr.de/)
     * [UNAVCO Short Courses](http://www.unavco.org/education/advancing-geodetic-skills/short-courses/2016/2016.html)
+    * [Online Class on Microwave Remote Sensing](https://radar.community.uaf.edu/)
+    * [How to do InSAR on ESA's Geoharzard Exploitation Platform](http://www.video.ethz.ch/events/2017/esa.html)
 
 * Processing Recipes for Automatic Product Generation 
     * [ASF Data Recipes](https://www.asf.alaska.edu/data-tools/data-recipes/)
