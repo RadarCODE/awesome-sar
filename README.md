@@ -45,6 +45,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [PySAR](https://github.com/hfattahi/PySAR) - InSAR time-series analysis in python.
 * [SARPROZ](http://www.sarproz.com/) - The SAR PROcessing tool by periZ 
 * [StaMPS/MTI](http://homepages.see.leeds.ac.uk/~earahoo/stamps/) - Stanford Method for Persistent Scatterers
+* [snap2stamps](https://github.com/mdelgadoblasco/snap2stamps) - Using SNAP as InSAR pre-processor for StaMPS
 
 ## Tropospheric Noise Correction Software
 
