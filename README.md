@@ -44,8 +44,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [PyRate](https://github.com/GeoscienceAustralia/PyRate) - A Python tool for Rate and Time-series Estimation
 * [PySAR](https://github.com/hfattahi/PySAR) - InSAR time-series analysis in python.
 * [SARPROZ](http://www.sarproz.com/) - The SAR PROcessing tool by periZ 
-* [StaMPS/MTI](http://homepages.see.leeds.ac.uk/~earahoo/stamps/) - Stanford Method for Persistent Scatterers
-* [snap2stamps](https://github.com/mdelgadoblasco/snap2stamps) - Using SNAP as InSAR pre-processor for StaMPS
+* [StaMPS/MTI](http://homepages.see.leeds.ac.uk/~earahoo/stamps/) - Stanford Method for Persistent Scatterers - [git-version](https://github.com/dbekaert/stamps)
 
 ## Tropospheric Noise Correction Software
 
@@ -82,7 +81,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     * [ROI_PAC-Sentinel1](https://github.com/RaphaelGrandin/ROI_PAC-Sentinel1)
     * [insar_scripts](https://github.com/scottyhq/insar_scripts)
     * [RapidSAR](https://github.com/KarstenSpaans/RapidSAR)
-    * [gmtsar2stamps](https://github.com/xitong123/gmtsar2stamps)
+    * [gmtsar2stamps](https://github.com/xitong123/gmtsar2stamps) - Using GMTSAR as InSAR pre-processor for StaMPS
+    * [snap2stamps](https://github.com/mdelgadoblasco/snap2stamps) - Using SNAP as InSAR pre-processor for StaMPS
+    * [ISCE stack2stamps](http://winsar.unavco.org/isce.html) - Using ISCE (src/contrib/timeseries/stack2stamps) as InSAR pre-processor for StaMPS
     * [pygmtsar](https://github.com/bakerunavco/pygmtsar) - Python scripts for GMTSAR processing
     * [GIPhT](https://github.com/feigl/gipht) - General Inversion of Phase Technique
     * [RaySAR](https://github.com/StefanJAuer/RaySAR) - 3D Synthetic Aperture Radar (SAR) Simulator
