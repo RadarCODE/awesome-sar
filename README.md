@@ -24,7 +24,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Software and libraries for interferometric synthetic aperture radar (InSAR)*
 
 * [GMT5SAR](http://gmt.soest.hawaii.edu/projects/gmt5sar) - InSAR processing system based on GMT.
-* [ISCE](http://winsar.unavco.org/isce.html) - InSAR Scientific Computing Environment.
+* [ISCE](http://winsar.unavco.org/software/isce) - InSAR Scientific Computing Environment.
 * [SNAP](http://step.esa.int/main/toolboxes/snap/) - Sentinel Application Platform.
 * [Doris](http://doris.tudelft.nl/) - Delft object-oriented radar interferomtric software.
 * [Gamma](http://www.gamma-rs.ch/no_cache/software.html) - Gamma Remote Sensing SAR and Interferometry Software.
@@ -83,7 +83,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     * [RapidSAR](https://github.com/KarstenSpaans/RapidSAR)
     * [gmtsar2stamps](https://github.com/xitong123/gmtsar2stamps) - Using GMTSAR as InSAR pre-processor for StaMPS
     * [snap2stamps](https://github.com/mdelgadoblasco/snap2stamps) - Using SNAP as InSAR pre-processor for StaMPS
-    * [ISCE stack2stamps](http://winsar.unavco.org/isce.html) - Using ISCE (src/contrib/timeseries/stack2stamps) as InSAR pre-processor for StaMPS
+    * [ISCE stack2stamps](http://winsar.unavco.org/software/isce) - Using ISCE (src/contrib/timeseries/stack2stamps) as InSAR pre-processor for StaMPS
     * [pygmtsar](https://github.com/bakerunavco/pygmtsar) - Python scripts for GMTSAR processing
     * [GIPhT](https://github.com/feigl/gipht) - General Inversion of Phase Technique
     * [RaySAR](https://github.com/StefanJAuer/RaySAR) - 3D Synthetic Aperture Radar (SAR) Simulator
