@@ -21,7 +21,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - - -
     
-## General/
+## General
 Software capable of multiple processing steps
 
 * [SNAP](http://step.esa.int/main/toolboxes/snap/) - Sentinel Application Platform.
