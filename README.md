@@ -5,12 +5,14 @@ A curated list of awesome SAR software, libraries, and resources.
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Awesome SAR](#awesome-sar)
+    - [General](#general)
     - [InSAR Processing Software](#insar-processing-software)
     - [PolSAR Processing Software](#polsar-processing-software)
     - [Time Series Analysis Software](#time-series-analysis-software)
     - [Tropospheric Noise Correction Software](#tropospheric-noise-correction-software)
     - [Geospatial Tools](#geospatial-tools)
     - [GitHub Repos](#radar-related-github-repos)
+    - [Image processing libraries](#relevant-image-processing-libraries)
 - [Resources](#resources)
     - [Data Archives](#data-archives)
     - [Websites](#websites)
@@ -18,6 +20,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Contributing](#contributing)
 
 - - -
+    
+## General
+Software capable of multiple processing steps
+
+* [SNAP](http://step.esa.int/main/toolboxes/snap/) - Sentinel Application Platform.
+* [Orfeo Toolbox (OTB)](https://www.orfeo-toolbox.org/) - Open Source processing of remote sensing images ([github](https://github.com/orfeotoolbox/OTB), [Cookbook](https://www.orfeo-toolbox.org/CookBook/recipes/sarprocessing.html): [SAR Processing](https://www.orfeo-toolbox.org/CookBook/recipes/sarprocessing.html), [Guide](http://orfeo-toolbox.org/SoftwareGuide/))
+* [SARbian](https://eo-college.org/sarbian/) - free and open SAR operating system 
 
 ## InSAR Processing Software
 
@@ -25,9 +34,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [GMT5SAR](http://gmt.soest.hawaii.edu/projects/gmt5sar) - InSAR processing system based on GMT.
 * [ISCE](http://winsar.unavco.org/software/isce) - InSAR Scientific Computing Environment.
-* [SNAP](http://step.esa.int/main/toolboxes/snap/) - Sentinel Application Platform.
 * [Doris](http://doris.tudelft.nl/) - Delft object-oriented radar interferomtric software.
-* [Gamma](http://www.gamma-rs.ch/no_cache/software.html) - Gamma Remote Sensing SAR and Interferometry Software.
+* [Gamma ($$)](http://www.gamma-rs.ch/no_cache/software.html) - Gamma Remote Sensing SAR and Interferometry Software.
 
 ## PolSAR Processing Software
 
@@ -61,6 +69,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [ASF Map Ready](https://github.com/asfadmin/ASF_MapReady) - MapReady Remote Sensing Tool Kit
 * [GDAL](https://github.com/OSGeo/gdal) - Geospatial Data Abstraction Library
 * [GMT](http://gmt.soest.hawaii.edu/projects/gmt) - Generic Mapping Tools
+* [QGIS](https://www.qgis.org/)
+* [GRASS](https://grass.osgeo.org/) - Geographic Resources Analysis Support System),
 
 ## Radar Related GitHub Repos
 
@@ -76,7 +86,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     * [adore-doris](https://github.com/bosmanoglu/adore-doris)
     * [RITSAR](https://github.com/dm6718/RITSAR)
     * [ISCE_utils](https://github.com/EJFielding/ISCE_utils)
-    * [s1tbx](https://github.com/senbox-org/s1tbx)
+    * [s1tbx](https://github.com/senbox-org/s1tbx) - part of SNAP
     * [PySAR](https://github.com/bminchew/PySAR)
     * [ROI_PAC-Sentinel1](https://github.com/RaphaelGrandin/ROI_PAC-Sentinel1)
     * [insar_scripts](https://github.com/scottyhq/insar_scripts)
@@ -94,6 +104,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     * [isce_notes](https://github.com/scottyhq/isce_notes) - Installation notes of ISCE software
     * [oldLinuxSetup](https://github.com/piyushrpt/oldLinuxSetup) - Setup python environment using anaconda on old linux machines
     * [ElCaptanSetup](https://github.com/piyushrpt/ElCapitanSetup) - Instructions for setting up an OS X El Capitan machine from scratch
+
+## Relevant Image processing libraries
+
+* [OpenCV](http://opencv.org/)
+* [Scikit-Image](http://scikit-image.org/)
+* [Insight Segmentation and Registration Toolkit (ITK)](https://itk.org/) - open-source, cross-platform system that provides developers with an extensive suite of software tools for image analysis 
+
 
 # Resources
 
@@ -129,7 +146,11 @@ Where to discover new SAR libraries and resources.
     * [WInSAR](http://winsar.unavco.org)
     * [Supersites](http://supersites.earthobservations.org/)
     * [Summary of Available SAR Calibration Targets](http://sarcv.ceos.org/targets/)
-    
+
+For more software refer to the 
+    - [SARbian list](https://eo-college.org/sarbian/)
+    - [List of geographic information systems software](https://www.wikiwand.com/en/List_of_geographic_information_systems_software).
+
 ## Twitter
 
 * [@InSARinfo](https://twitter.com/insarinfo)
