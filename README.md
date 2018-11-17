@@ -110,6 +110,7 @@ Software capable of multiple processing steps
 * [OpenCV](http://opencv.org/)
 * [Scikit-Image](http://scikit-image.org/)
 * [Insight Segmentation and Registration Toolkit (ITK)](https://itk.org/) - open-source, cross-platform system that provides developers with an extensive suite of software tools for image analysis 
+* [Spectral Python (SPy)](https://www.spectralpython.net/index.html) - Python module for processing hyperspectral image data
 
 
 # Resources
