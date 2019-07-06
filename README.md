@@ -49,8 +49,8 @@ Software capable of multiple processing steps
 *Software and libraries for multitemporal/time series InSAR analysis*
 
 * [GIAnT](http://earthdef.caltech.edu/projects/giant/wiki) - Generic InSAR Analysis Toolbox.
+* [MintPy](https://github.com/insarlab/MintPy) - Miami INsar Time-series software in PYthon.
 * [PyRate](https://github.com/GeoscienceAustralia/PyRate) - A Python tool for Rate and Time-series Estimation
-* [PySAR](https://github.com/hfattahi/PySAR) - InSAR time-series analysis in python.
 * [SARPROZ](http://www.sarproz.com/) - The SAR PROcessing tool by periZ 
 * [StaMPS/MTI](http://homepages.see.leeds.ac.uk/~earahoo/stamps/) - Stanford Method for Persistent Scatterers - [git-version](https://github.com/dbekaert/stamps)
 
@@ -128,6 +128,7 @@ Where to discover new SAR libraries and resources.
 
 * Forums 
     * [ISCE Forum](http://earthdef.caltech.edu/projects/isce_forum/boards)
+    * [MintPy Forum](https://groups.google.com/forum/#!forum/mintpy)
     * [SNAP Forum](http://forum.step.esa.int)
     * [StaMPS/MAINSAR Forum](https://groups.google.com/forum/#!forum/mainsar)
     * [TRAIN Forum](https://groups.google.com/forum/#!forum/TRAIN_support)
