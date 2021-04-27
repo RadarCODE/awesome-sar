@@ -70,7 +70,7 @@ Software capable of multiple processing steps
 * [GDAL](https://github.com/OSGeo/gdal) - Geospatial Data Abstraction Library
 * [GMT](http://gmt.soest.hawaii.edu/projects/gmt) - Generic Mapping Tools
 * [QGIS](https://www.qgis.org/)
-* [GRASS](https://grass.osgeo.org/) - Geographic Resources Analysis Support System),
+* [GRASS](https://grass.osgeo.org/) - Geographic Resources Analysis Support System
 
 ## Radar Related GitHub Repos
 
