@@ -1,10 +1,10 @@
-# Awesome SAR [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome SAR
 
 A curated list of awesome SAR software, libraries, and resources.
 
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
-- [Awesome SAR ![Awesome](https://awesome.re)](#awesome-sar-)
+- [Awesome SAR](#awesome-sar)
   - [General](#general)
   - [InSAR Processing Software](#insar-processing-software)
   - [PolSAR Processing Software](#polsar-processing-software)
