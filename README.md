@@ -142,9 +142,14 @@ Where to discover new SAR libraries and resources.
     * [UNAVCO Short Courses](http://www.unavco.org/education/advancing-geodetic-skills/short-courses/2016/2016.html)
     * [Online Class on Microwave Remote Sensing](https://radar.community.uaf.edu/)
     * [How to do InSAR on ESA's Geohazard Exploitation Platform](http://www.video.ethz.ch/events/2017/esa.html)
+    * [SAR-CBC](https://learnsar.open.uaf.edu/)
+    * [edX Course on "Synthetic Aperture Radar: Hazards"](https://www.edx.org/course/sar-hazards)
 
+* Custom Processing Services
+    * [ASF Custom Processing Services](https://asf.alaska.edu/information/general/custom-processing/)
+  
 * Processing Recipes for Automatic Product Generation 
-    * [ASF Data Recipes](https://www.asf.alaska.edu/data-tools/data-recipes/)
+    * [ASF Data Recipes](https://asf.alaska.edu/how-to/data-recipes/data-recipe-tutorials-2/)
 
 * Other 
     * [CEOS Database](http://database.eohandbook.com/)
