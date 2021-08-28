@@ -171,6 +171,8 @@ For more software refer to the
 
 * [@InSARinfo](https://twitter.com/insarinfo)
 * [@SistersofSAR](https://twitter.com/SistersofSAR)
+* [@SARevangelist](https://twitter.com/SARevangelist)
+* [@EricFielding](https://twitter.com/EricFielding)
 
 
 # Contributing
