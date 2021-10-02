@@ -97,6 +97,7 @@ Software capable of multiple processing steps
 * [insar_scripts](https://github.com/scottyhq/insar_scripts)
 * [RapidSAR](https://github.com/KarstenSpaans/RapidSAR) 
 * [gmtsar2stamps](https://github.com/xitong123/gmtsar2stamps) - Using GMTSAR as InSAR pre-processor for StaMPS
+* [INSAR_G2S](https://github.com/dedetmix/INSAR_G2S) - Using GMTSAR as InSAR pre-processor for StaMPS (Single Master and Small Baseline)
 * [pygmtsar](https://github.com/bakerunavco/pygmtsar) - Python scripts for GMTSAR processing
 * [snap2stamps](https://github.com/mdelgadoblasco/snap2stamps) - Using SNAP as InSAR pre-processor for StaMPS
 * [ISCE stack2stamps](http://winsar.unavco.org/software/isce) - Using ISCE (`src/contrib/timeseries/stack2stamps`) as InSAR pre-processor for StaMPS
