@@ -102,6 +102,7 @@ Software capable of multiple processing steps
 * [ISCE stack2stamps](http://winsar.unavco.org/software/isce) - Using ISCE (`src/contrib/timeseries/stack2stamps`) as InSAR pre-processor for StaMPS
 * [GIPhT](https://github.com/feigl/gipht) - General Inversion of Phase Technique
 * [RaySAR](https://github.com/StefanJAuer/RaySAR) - 3D Synthetic Aperture Radar (SAR) Simulator
+* [EOReader](https://github.com/sertit/eoreader) - Opensource python library reading optical and SAR sensors, loading and stacking bands in a sensor-agnostic way.
 
 ### InSAR Modelling
 * [pyrocko](https://pyrocko.org) - Offers tools for surface displacement modelling from various finite and extended earthquake dislocation sources.
