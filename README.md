@@ -98,11 +98,12 @@ Software capable of multiple processing steps
 * [RapidSAR](https://github.com/KarstenSpaans/RapidSAR) 
 * [gmtsar2stamps](https://github.com/xitong123/gmtsar2stamps) - Using GMTSAR as InSAR pre-processor for StaMPS
 * [INSAR_G2S](https://github.com/dedetmix/INSAR_G2S) - Using GMTSAR as InSAR pre-processor for StaMPS (Single Master and Small Baseline)
-* [pygmtsar](https://github.com/bakerunavco/pygmtsar) - Python scripts for GMTSAR processing
+* [pygmtsar](https://github.com/mobigroup/gmtsar) - Python scripts for GMTSAR processing
 * [snap2stamps](https://github.com/mdelgadoblasco/snap2stamps) - Using SNAP as InSAR pre-processor for StaMPS
 * [ISCE stack2stamps](http://winsar.unavco.org/software/isce) - Using ISCE (`src/contrib/timeseries/stack2stamps`) as InSAR pre-processor for StaMPS
 * [GIPhT](https://github.com/feigl/gipht) - General Inversion of Phase Technique
 * [RaySAR](https://github.com/StefanJAuer/RaySAR) - 3D Synthetic Aperture Radar (SAR) Simulator
+* [EOReader](https://github.com/sertit/eoreader) - Opensource python library reading optical and SAR sensors, loading and stacking bands in a sensor-agnostic way.
 
 ### InSAR Modelling
 * [pyrocko](https://pyrocko.org) - Offers tools for surface displacement modelling from various finite and extended earthquake dislocation sources.
