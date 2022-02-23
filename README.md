@@ -56,12 +56,14 @@ Software capable of multiple processing steps
 * [SARPROZ](http://www.sarproz.com/) - The SAR PROcessing tool by periZ 
 * [StaMPS/MTI](http://homepages.see.leeds.ac.uk/~earahoo/stamps/) - Stanford Method for Persistent Scatterers - [git-version](https://github.com/dbekaert/stamps)
 * [SARscape](https://www.sarmap.ch/index.php/software/sarscape/) - SARscape supports PS as well as SBAS processing of interferometric time series in desktop as well as in cluster environments, and the analisys of backscatter time series.
+* [KFTS](https://github.com/ManonDls/KFTS-InSAR) - A Kalman filter based, sequential time series analysis tool.
+* [MPITS](https://github.com/jolivetr/mpits) - Multi-pixel, full covariance time series analysis tool.
 
 ## Tropospheric Noise Correction Software
 
 *Software and libraries for performing tropospheric noise corrections*
 
-* [PyAPS](http://earthdef.caltech.edu/projects/pyaps/wiki) - Python based Atmospheric Phase Screen Estimation.
+* [PyAPS](http://earthdef.caltech.edu/projects/pyaps/wiki) - Python based Atmospheric Phase Screen Estimation. - [git-version] (https://github.com/insarlab/PyAPS)
 * [TRAIN](http://www.davidbekaert.com/#links) - Toolbox for Reducing Atmospheric InSAR Noise - [git-version](https://github.com/dbekaert/TRAIN).
 
 
