@@ -106,6 +106,8 @@ Software capable of multiple processing steps
 * [GIPhT](https://github.com/feigl/gipht) - General Inversion of Phase Technique
 * [RaySAR](https://github.com/StefanJAuer/RaySAR) - 3D Synthetic Aperture Radar (SAR) Simulator
 * [EOReader](https://github.com/sertit/eoreader) - Opensource python library reading optical and SAR sensors, loading and stacking bands in a sensor-agnostic way.
+* [Xarray-Sentinel](https://github.com/bopen/xarray-sentinel) - Xarray backend to Copernicus Sentinel-1 satellite data products
+* [Sarsen](https://github.com/bopen/sarsen) - Algorithms and tools to geometrically and radiometrically terrain-correct Sentinel-1 SAR data
 
 ### InSAR Modelling
 * [pyrocko](https://pyrocko.org) - Offers tools for surface displacement modelling from various finite and extended earthquake dislocation sources.
