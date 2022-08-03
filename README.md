@@ -70,7 +70,7 @@ Software capable of multiple processing steps
 
 * [ASF Map Ready](https://github.com/asfadmin/ASF_MapReady) - MapReady Remote Sensing Tool Kit
 * [GDAL](https://github.com/OSGeo/gdal) - Geospatial Data Abstraction Library
-* [GMT](http://gmt.soest.hawaii.edu/projects/gmt) - Generic Mapping Tools
+* [GMT](https://github.com/GenericMappingTools/gmt) - [Generic Mapping Tools](https://www.generic-mapping-tools.org/)
 * [QGIS](https://www.qgis.org/)
 * [GRASS](https://grass.osgeo.org/) - Geographic Resources Analysis Support System
 * [GEE Code Editor](https://earthengine.google.com/platform/) - Web-based IDE for geospatial processing and analysis.
