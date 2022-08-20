@@ -87,6 +87,7 @@ Software capable of multiple processing steps
 * [ArchiveTools](https://github.com/bakerunavco/Archive-Tools) - Scripts for downloading and searching data
 * [SentinelSat](https://github.com/ibamacsr/sentinelsat) - Search and download Sentinel images from the command line or with the Python API.
 * [EODAG](https://github.com/CS-SI/eodag) - Command line tool and plugin-oriented Python framework for search and download from [multiple providers](https://eodag.readthedocs.io/en/stable/getting_started_guide/providers.html).
+* [EODMS API Client](https://github.com/m9brady/eodms-api-client) - Search, order and download from NRCan's [Earth Observation Data Management System (EODMS)](https://www.eodms-sgdot.nrcan-rncan.gc.ca/) from command line or Python REPL.
 
 ### Software and Utilities
 * [ARIA-tools](https://github.com/aria-tools) - Tools to manipulate (download, cropping, stitching, time-series preparation) [ARIA products](http://aria-products.jpl.nasa.gov/)
