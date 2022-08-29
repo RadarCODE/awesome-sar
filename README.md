@@ -112,6 +112,8 @@ Software capable of multiple processing steps
 * [EOReader](https://github.com/sertit/eoreader) - Opensource python library reading optical and SAR sensors, loading and stacking bands in a sensor-agnostic way.
 * [Xarray-Sentinel](https://github.com/bopen/xarray-sentinel) - Xarray backend to Copernicus Sentinel-1 satellite data products
 * [Sarsen](https://github.com/bopen/sarsen) - Algorithms and tools to geometrically and radiometrically terrain-correct Sentinel-1 SAR data
+* [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - A Python Framework for large-scale SAR Satellite Data Processing.
+* [S1_NRB](https://github.com/SAR-ARD/S1_NRB) - A prototype processor for the Sentinel-1 Normalised Radar Backscatter product.
 
 ### InSAR Modelling
 * [pyrocko](https://pyrocko.org) - Offers tools for surface displacement modelling from various finite and extended earthquake dislocation sources.
