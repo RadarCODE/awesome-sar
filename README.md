@@ -172,7 +172,7 @@ Where to discover new SAR libraries and resources.
 * [CEOS Database](http://database.eohandbook.com/)
 * [WInSAR](http://winsar.unavco.org)
 * [Supersites](http://supersites.earthobservations.org/)
-* [Summary of Available SAR Calibration Targets](http://sarcv.ceos.org/targets/)
+* [Summary of Available SAR Calibration Targets](https://calvalportal.ceos.org/point-distributed-targets-db)
 
 For more software refer to the 
 - [SARbian list](https://eo-college.org/sarbian/)
