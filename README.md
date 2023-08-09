@@ -59,11 +59,12 @@ Software capable of multiple processing steps
 * [KFTS](https://github.com/ManonDls/KFTS-InSAR) - A Kalman filter based, sequential time series analysis tool.
 * [MPITS](https://github.com/jolivetr/mpits) - Multi-pixel, full covariance time series analysis tool.
 
-## Tropospheric Noise Correction Software
+## Noise Correction Software
 
-*Software and libraries for performing tropospheric noise corrections*
+*Software and libraries for noise reductions and corrections of tropospheric delays, solid Earth tides, etc.*
 
-* [PyAPS](http://earthdef.caltech.edu/projects/pyaps/wiki) - Python based Atmospheric Phase Screen Estimation. - [git-version] (https://github.com/insarlab/PyAPS)
+* [PyAPS](https://github.com/insarlab/PyAPS) - Python based Atmospheric Phase Screen Estimation.
+* [PySolid](https://github.com/insarlab/PySolid) - A Python wrapper for solid Earth tides.
 * [TRAIN](http://www.davidbekaert.com/#links) - Toolbox for Reducing Atmospheric InSAR Noise - [git-version](https://github.com/dbekaert/TRAIN).
 
 
