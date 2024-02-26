@@ -87,7 +87,8 @@ Software capable of multiple processing steps
 ### Data discovery and download
 * [SSARA](https://github.com/bakerunavco/SSARA) - Seamless SAR Archive project repository
 * [ArchiveTools](https://github.com/bakerunavco/Archive-Tools) - Scripts for downloading and searching data
-* [SentinelSat](https://github.com/sentinelsat/sentinelsat) - Search and download Sentinel images from the command line or with the Python API.
+* [SentinelSat](https://github.com/sentinelsat/sentinelsat) - Search and download Sentinel images from the command line or with the Python API (not working with current Copernicus Data Space).
+* [CDSETool](https://github.com/SDFIdk/CDSETool) - Download data from the Copernicus Data Space Ecosystem (CDSE), including Sentinel-1 data.
 * [EODAG](https://github.com/CS-SI/eodag) - Command line tool and plugin-oriented Python framework for search and download from [multiple providers](https://eodag.readthedocs.io/en/stable/getting_started_guide/providers.html).
 * [EODMS API Client](https://github.com/m9brady/eodms-api-client) - Search, order and download from NRCan's [Earth Observation Data Management System (EODMS)](https://www.eodms-sgdot.nrcan-rncan.gc.ca/) from command line or Python REPL.
 
