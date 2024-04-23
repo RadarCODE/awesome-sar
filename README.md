@@ -95,7 +95,7 @@ Software capable of multiple processing steps
 
 ### Software and Utilities
 * [ARIA-tools](https://github.com/aria-tools) - Tools to manipulate (download, cropping, stitching, time-series preparation) [ARIA products](http://aria-products.jpl.nasa.gov/)
-* [OPERA](https://github.com/opera-adt) - SAR co-registration, SqueeSAR-type InSAR time series analysis, RTC, and surface water mapping tools developed by the Observational Products for End-Users from Remote Sensing Analysis (OPERA) project.
+* [OPERA](https://github.com/opera-adt) - SAR co-registration, SqueeSAR-type InSAR time series analysis, RTC, and surface water mapping tools developed by the JPL Observational Products for End-Users from Remote Sensing Analysis (OPERA) project.
 * [PyRAT](https://github.com/birgander2/PyRAT) - General purpose SAR postprocessing framework
 * [kite](https://github.com/pyrocko/kite) - Quadtree subsampling, data covariance analysis for surface displacement modeling. APS removal (empirical and GACOS). Download data from various data centers.
 * [adore-doris](https://github.com/bosmanoglu/adore-doris)
