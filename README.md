@@ -35,7 +35,7 @@ Software capable of multiple processing steps
 
 * [GMTSAR](https://github.com/gmtsar/gmtsar) - InSAR processing system combined with GMT.
 * [ISCE2](https://github.com/isce-framework/isce2) - InSAR Scientific Computing Environment.
-* [Doris](http://doris.tudelft.nl/) - Delft object-oriented radar interferomtric software.
+* [Doris](http://doris.tudelft.nl/) - Delft object-oriented radar interferometric software.
 * [Gamma ($$)](http://www.gamma-rs.ch/no_cache/software.html) - Gamma Remote Sensing SAR and Interferometry Software.
 * [SARscape](https://www.sarmap.ch/index.php/software/sarscape/) - SARscape supports the processing of Interferometric SAR and Differential Interferometric SAR data for the generation of Digital Elevation Model, Coherence, and Land Displacement maps.
 
@@ -44,7 +44,8 @@ Software capable of multiple processing steps
 *Software and libraries for polarimetric and polarimetric interferometric SAR (PolSAR / PolInSAR)*
 
 * [PolSARPro](https://earth.esa.int/web/polsarpro) - The ESA Polarimetric SAR Data Processing and Educational Tool
-* [RAT](https://rat.radartools.org) - RAT Radar Tools (discontinued)
+* [PolSARPro updates for Linux](https://github.com/fpl/polsarpro) - A git mirror of the ESA Polarimetric SAR Data Processing and Educational Tool with updates for GNU/Linux compatibility
+* [RAT](https://github.com/birgander2/RAT) - RAT Radar Tools (discontinued/obsolete)
 
 ## Time Series Analysis Software
 
@@ -86,14 +87,16 @@ Software capable of multiple processing steps
 ### Data discovery and download
 * [SSARA](https://github.com/bakerunavco/SSARA) - Seamless SAR Archive project repository
 * [ArchiveTools](https://github.com/bakerunavco/Archive-Tools) - Scripts for downloading and searching data
-* [SentinelSat](https://github.com/ibamacsr/sentinelsat) - Search and download Sentinel images from the command line or with the Python API.
+* [SentinelSat](https://github.com/sentinelsat/sentinelsat) - Search and download Sentinel images from the command line or with the Python API (not working with current Copernicus Data Space).
+* [CDSETool](https://github.com/SDFIdk/CDSETool) - Download data from the Copernicus Data Space Ecosystem (CDSE), including Sentinel-1 data.
+* [CopernicusAPi](https://github.com/armkhudinyan/copernicus_api) - Another library to download data from Copernicus Data Space Ecosystem (CDSE).
 * [EODAG](https://github.com/CS-SI/eodag) - Command line tool and plugin-oriented Python framework for search and download from [multiple providers](https://eodag.readthedocs.io/en/stable/getting_started_guide/providers.html).
 * [EODMS API Client](https://github.com/m9brady/eodms-api-client) - Search, order and download from NRCan's [Earth Observation Data Management System (EODMS)](https://www.eodms-sgdot.nrcan-rncan.gc.ca/) from command line or Python REPL.
 
 ### Software and Utilities
 * [ARIA-tools](https://github.com/aria-tools) - Tools to manipulate (download, cropping, stitching, time-series preparation) [ARIA products](http://aria-products.jpl.nasa.gov/)
 * [PyRAT](https://github.com/birgander2/PyRAT) - General purpose SAR postprocessing framework
-* [kite](https://github.com/pyrocko/kite) - Quadtree subsampling, data covariance analysis for surface displacement modelling. APS removal (empirical and GACOS). Download data from various data centers.
+* [kite](https://github.com/pyrocko/kite) - Quadtree subsampling, data covariance analysis for surface displacement modeling. APS removal (empirical and GACOS). Download data from various data centers.
 * [adore-doris](https://github.com/bosmanoglu/adore-doris)
 * [RITSAR](https://github.com/dm6718/RITSAR)
 * [ISCE_utils](https://github.com/EJFielding/ISCE_utils)
@@ -118,14 +121,14 @@ Software capable of multiple processing steps
 * [ALUs](https://github.com/cgi-estonia-space/ALUs) - Various processors utilizing GPU, the fastest for Sentinel-1 coherence and backscatter. 
 
 ### InSAR Modelling
-* [pyrocko](https://pyrocko.org) - Offers tools for surface displacement modelling from various finite and extended earthquake dislocation sources.
-* [grond](https://pyrocko.org) - Modern probabalistic surface displacement inversion (works with [kite](https://github.com/pyrocko/kite)).
-* [SARscape](https://www.sarmap.ch/index.php/software/sarscape/) - SARscape provides moduels for the analytic modeling of geophysical sources developed in collabopration with INGV.
+* [pyrocko](https://pyrocko.org) - Offers tools for surface displacement modeling from various finite and extended earthquake dislocation sources.
+* [grond](https://pyrocko.org) - Modern probabilistic surface displacement inversion (works with [kite](https://github.com/pyrocko/kite)).
+* [SARscape](https://www.sarmap.ch/index.php/software/sarscape/) - SARscape provides models for the analytic modeling of geophysical sources developed in collaboration with INGV.
 
 ### System configuration and installation
-* [insar_instal](https://github.com/mgovorcin/insar_inst) - Set of scripts that automatically install InSAR softwares
+* [insar_instal](https://github.com/mgovorcin/insar_inst) - Set of scripts that automatically install InSAR software
 * [isce_notes](https://github.com/scottyhq/isce_notes) - Installation notes of ISCE software
-* [oldLinuxSetup](https://github.com/piyushrpt/oldLinuxSetup) - Setup python environment using anaconda on old linux machines
+* [oldLinuxSetup](https://github.com/piyushrpt/oldLinuxSetup) - Setup Python environment using Anaconda on old Linux machines
 * [ElCaptanSetup](https://github.com/piyushrpt/ElCapitanSetup) - Instructions for setting up an OS X El Capitan machine from scratch
 
 ## Relevant Image processing libraries
@@ -178,7 +181,7 @@ Where to discover new SAR libraries and resources.
 * [Supersites](http://supersites.earthobservations.org/)
 * [Summary of Available SAR Calibration Targets](https://calvalportal.ceos.org/point-distributed-targets-db)
 
-For more software refer to the 
+For more software, refer to the 
 - [SARbian list](https://eo-college.org/sarbian/)
 - [List of geographic information systems software](https://www.wikiwand.com/en/List_of_geographic_information_systems_software).
 
