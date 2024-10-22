@@ -119,7 +119,10 @@ Software capable of multiple processing steps
 * [Sarsen](https://github.com/bopen/sarsen) - Algorithms and tools to geometrically and radiometrically terrain-correct Sentinel-1 SAR data
 * [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - A Python Framework for large-scale SAR Satellite Data Processing.
 * [S1_NRB](https://github.com/SAR-ARD/S1_NRB) - A prototype processor for the Sentinel-1 Normalised Radar Backscatter product.
-* [ALUs](https://github.com/cgi-estonia-space/ALUs) - Various processors utilizing GPU, the fastest for Sentinel-1 coherence and backscatter. 
+* [ALUs](https://github.com/cgi-estonia-space/ALUs) - Various processors utilizing GPU, the fastest for Sentinel-1 coherence and backscatter.
+* [EO-Tools](https://github.com/odhondt/eo_tools) - A Python Earth Observation toolbox, including Sentinel-1 InSAR processing.
+* [S1 Processor](https://github.com/eo2cube/s1_processor/) - A Sentinel-1 processor based on SNAP and pyroSAR for SLC data producing backscatter intensity and/or InSAR coherence and/or Dual pol H/a decomposition
+ 
 
 ### InSAR Modelling
 * [pyrocko](https://pyrocko.org) - Offers tools for surface displacement modeling from various finite and extended earthquake dislocation sources.
