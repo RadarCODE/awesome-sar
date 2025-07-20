@@ -36,7 +36,7 @@ Software capable of multiple processing steps
 * [GMTSAR](https://github.com/gmtsar/gmtsar) - InSAR processing system combined with GMT.
 * [ISCE2](https://github.com/isce-framework/isce2) - InSAR Scientific Computing Environment.
 * [Doris](http://doris.tudelft.nl/) - Delft object-oriented radar interferometric software.
-* [Gamma ($$)](http://www.gamma-rs.ch/no_cache/software.html) - Gamma Remote Sensing SAR and Interferometry Software.
+* [Gamma](https://gamma-rs.ch/gamma-software) - The GAMMA Software is a commercial software package developed and maintained by GAMMA. The software provides various modules including the Modular SAR Processor (MSP), the Interferometry (ISP), Differential Interferometry (DIFF), and Geocoding (GEO) modules, as well as a Land Application Toolbox (LAT) and Interferometric Point Target Analysis (IPTA) module. For more information on software versions and content please look [here](https://gamma-rs.ch/uploads/media/GAMMA_Software_information.pdf).
 * [SARscape](https://www.sarmap.ch/index.php/software/sarscape/) - SARscape supports the processing of Interferometric SAR and Differential Interferometric SAR data for the generation of Digital Elevation Model, Coherence, and Land Displacement maps.
 
 ## PolSAR Processing Software
