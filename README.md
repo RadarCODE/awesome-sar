@@ -85,7 +85,7 @@ Software capable of multiple processing steps
 *Collect and classify open projects on GitHub related to SAR*
 
 ### Data discovery and download
-* [SSARA](https://github.com/bakerunavco/SSARA) - Seamless SAR Archive project repository
+* [SSARA](https://gitlab.com/earthscope/public/sar/ssara_client) - Seamless SAR Archive project repository
 * [ArchiveTools](https://github.com/bakerunavco/Archive-Tools) - Scripts for downloading and searching data
 * [SentinelSat](https://github.com/sentinelsat/sentinelsat) - Search and download Sentinel images from the command line or with the Python API (not working with current Copernicus Data Space).
 * [CDSETool](https://github.com/SDFIdk/CDSETool) - Download data from the Copernicus Data Space Ecosystem (CDSE), including Sentinel-1 data.
