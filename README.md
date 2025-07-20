@@ -36,7 +36,7 @@ Software capable of multiple processing steps
 * [GMTSAR](https://github.com/gmtsar/gmtsar) - InSAR processing system combined with GMT.
 * [ISCE2](https://github.com/isce-framework/isce2) - InSAR Scientific Computing Environment.
 * [Doris](http://doris.tudelft.nl/) - Delft object-oriented radar interferometric software.
-* [Gamma ($$)](http://www.gamma-rs.ch/no_cache/software.html) - Gamma Remote Sensing SAR and Interferometry Software.
+* [Gamma](https://gamma-rs.ch/gamma-software) - The GAMMA Software is a commercial software package developed and maintained by GAMMA. The software provides various modules including the Modular SAR Processor (MSP), the Interferometry (ISP), Differential Interferometry (DIFF), and Geocoding (GEO) modules, as well as a Land Application Toolbox (LAT) and Interferometric Point Target Analysis (IPTA) module. For more information on software versions and content please look [here](https://gamma-rs.ch/uploads/media/GAMMA_Software_information.pdf).
 * [SARscape](https://www.sarmap.ch/index.php/software/sarscape/) - SARscape supports the processing of Interferometric SAR and Differential Interferometric SAR data for the generation of Digital Elevation Model, Coherence, and Land Displacement maps.
 
 ## PolSAR Processing Software
@@ -85,7 +85,7 @@ Software capable of multiple processing steps
 *Collect and classify open projects on GitHub related to SAR*
 
 ### Data discovery and download
-* [SSARA](https://github.com/bakerunavco/SSARA) - Seamless SAR Archive project repository
+* [SSARA](https://gitlab.com/earthscope/public/sar/ssara_client) - Seamless SAR Archive project repository
 * [ArchiveTools](https://github.com/bakerunavco/Archive-Tools) - Scripts for downloading and searching data
 * [SentinelSat](https://github.com/sentinelsat/sentinelsat) - Search and download Sentinel images from the command line or with the Python API (not working with current Copernicus Data Space).
 * [CDSETool](https://github.com/SDFIdk/CDSETool) - Download data from the Copernicus Data Space Ecosystem (CDSE), including Sentinel-1 data.
@@ -120,6 +120,9 @@ Software capable of multiple processing steps
 * [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - A Python Framework for large-scale SAR Satellite Data Processing.
 * [S1_NRB](https://github.com/SAR-ARD/S1_NRB) - A prototype processor for the Sentinel-1 Normalised Radar Backscatter product.
 * [ALUs](https://github.com/cgi-estonia-space/ALUs) - Various processors utilizing GPU, the fastest for Sentinel-1 coherence and backscatter.
+* [EO-Tools](https://github.com/odhondt/eo_tools) - A Python Earth Observation toolbox, including Sentinel-1 InSAR processing.
+* [S1 Processor](https://github.com/eo2cube/s1_processor/) - A Sentinel-1 processor based on SNAP and pyroSAR for SLC data producing backscatter intensity and/or InSAR coherence and/or Dual pol H/a decomposition
+* [S1Tiling](https://github.com/CNES/S1Tiling) - On demand Ortho-rectification of Sentinel-1 data on Sentinel-2 grid (works with [Orfeo Toolbox (OTB)](https://www.orfeo-toolbox.org/) and the documentation are available in  [S1Tiling docs](https://s1-tiling.pages.orfeo-toolbox.org/s1tiling/latest)).
 * [UAVSAR_pytools](https://github.com/SnowEx/uavsar_pytools) - Tools to manipulate (searching, download, processing) [UAVSAR](https://uavsar.jpl.nasa.gov/) airborne imagery.
 
 ### InSAR Modelling
