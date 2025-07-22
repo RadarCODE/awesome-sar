@@ -26,6 +26,7 @@ Software capable of multiple processing steps
 
 * [SNAP](http://step.esa.int/main/toolboxes/snap/) - Sentinel Application Platform.
 * [Orfeo Toolbox (OTB)](https://www.orfeo-toolbox.org/) - Open Source processing of remote sensing images ([github](https://github.com/orfeotoolbox/OTB), [Cookbook](https://www.orfeo-toolbox.org/CookBook/recipes/sarprocessing.html): [SAR Processing](https://www.orfeo-toolbox.org/CookBook/recipes/sarprocessing.html), [Guide](http://orfeo-toolbox.org/SoftwareGuide/))
+* [Gamma](https://gamma-rs.ch/gamma-software) - the Gamma software is a commercial software package that supports the entire processing chain from synthetic aperture radar (SAR) raw data focusing over SAR interferometry, time series analysis, polarimetric decompositions, SAR image filtering to generation of end products such as digital elevation models, ground motion, change detection, and land use mapping etc. Most spaceborne SAR systems, various air-/UAV-borne and terrestrial SAR systems, including the Gamma SAR Systems and the GPRI are supported. 
 * [SARbian](https://eo-college.org/sarbian/) - free and open SAR operating system
 * [SARscape](https://www.sarmap.ch/index.php/software/sarscape/) - SARscape is a complete set of functions for the end-to-end processing of all spaceborne and selected airborne SAR data.
 
@@ -36,7 +37,7 @@ Software capable of multiple processing steps
 * [GMTSAR](https://github.com/gmtsar/gmtsar) - InSAR processing system combined with GMT.
 * [ISCE2](https://github.com/isce-framework/isce2) - InSAR Scientific Computing Environment.
 * [Doris](http://doris.tudelft.nl/) - Delft object-oriented radar interferometric software.
-* [Gamma](https://gamma-rs.ch/gamma-software) - The GAMMA Software is a commercial software package developed and maintained by GAMMA. The software provides various modules including the Modular SAR Processor (MSP), the Interferometry (ISP), Differential Interferometry (DIFF), and Geocoding (GEO) modules, as well as a Land Application Toolbox (LAT) and Interferometric Point Target Analysis (IPTA) module. For more information on software versions and content please look [here](https://gamma-rs.ch/uploads/media/GAMMA_Software_information.pdf).
+* [Gamma](https://gamma-rs.ch/gamma-software) - supports processing of interferometric SAR and differential interferometric SAR data for the generation of digital elevation models, coherence, and ground motion maps including tropospheric and ionospheric phase mitigation.
 * [SARscape](https://www.sarmap.ch/index.php/software/sarscape/) - SARscape supports the processing of Interferometric SAR and Differential Interferometric SAR data for the generation of Digital Elevation Model, Coherence, and Land Displacement maps.
 
 ## PolSAR Processing Software
@@ -46,6 +47,7 @@ Software capable of multiple processing steps
 * [PolSARPro](https://earth.esa.int/web/polsarpro) - The ESA Polarimetric SAR Data Processing and Educational Tool
 * [PolSARPro updates for Linux](https://github.com/fpl/polsarpro) - A git mirror of the ESA Polarimetric SAR Data Processing and Educational Tool with updates for GNU/Linux compatibility
 * [RAT](https://github.com/birgander2/RAT) - RAT Radar Tools (discontinued/obsolete)
+* [Gamma](https://gamma-rs.ch/gamma-software) - supports various polarimetric decompositions.
 
 ## Time Series Analysis Software
 
@@ -56,6 +58,7 @@ Software capable of multiple processing steps
 * [PyRate](https://github.com/GeoscienceAustralia/PyRate) - A Python tool for Rate and Time-series Estimation
 * [SARPROZ](http://www.sarproz.com/) - The SAR PROcessing tool by periZ 
 * [StaMPS/MTI](http://homepages.see.leeds.ac.uk/~earahoo/stamps/) - Stanford Method for Persistent Scatterers - [git-version](https://github.com/dbekaert/stamps)
+* [Gamma](https://gamma-rs.ch/gamma-software) - GAMMA's Interferometric Point Target Analysis (IPTA) module supports point-target-based and 2-D interferogram-based time series analysis to retrieve ground motion histories, terrain heights, and relative atmospheric path delays.
 * [SARscape](https://www.sarmap.ch/index.php/software/sarscape/) - SARscape supports PS as well as SBAS processing of interferometric time series in desktop as well as in cluster environments, and the analisys of backscatter time series.
 * [KFTS](https://github.com/ManonDls/KFTS-InSAR) - A Kalman filter based, sequential time series analysis tool.
 * [MPITS](https://github.com/jolivetr/mpits) - Multi-pixel, full covariance time series analysis tool.
