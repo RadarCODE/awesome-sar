@@ -82,6 +82,7 @@ Software capable of multiple processing steps
 * [QGIS](https://www.qgis.org/)
 * [GRASS](https://grass.osgeo.org/) - Geographic Resources Analysis Support System
 * [GEE Code Editor](https://earthengine.google.com/platform/) - Web-based IDE for geospatial processing and analysis.
+* [InSAR Explorer](https://insar-explorer.readthedocs.io) - A QGIS plugin for visualization and analysis of InSAR time series, supporting outputs from various InSAR software.
 
 ## Radar Related GitHub Repos
 
